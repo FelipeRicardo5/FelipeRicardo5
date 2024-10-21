@@ -1,5 +1,5 @@
 <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="68">   
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=25&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Hi,+I'm+Ricardo!;A+technology+enthusiast+passionate+about+learning.; ; " alt="Typing SVG" /> <a href="https://github.com/FelipeRicardo5">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=25&duration=3000&pause=100&multiline=true&width=650&height=80&lines=Hi,+I'm+Ricardo!;A+technology+enthusiast+passionate+about+learning.; ; " alt="Typing SVG" /> <a href="https://github.com/FelipeRicardo5">
 
 <div> 
   <a href="https://www.instagram.com/oricardofotografia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
