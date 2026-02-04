@@ -34,7 +34,9 @@
   </td>
   </tr>
 </table>
-
+<p>
+  Development of web applications, systems for hardware with limited resources, and event-driven applications.
+</p>
 <!-- Social badges -->
 <p align="left">
   <a href="https://www.instagram.com/oricardofotografia/" target="_blank">
