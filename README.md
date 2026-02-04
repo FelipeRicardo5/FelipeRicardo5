@@ -35,7 +35,9 @@
   </tr>
 </table>
 <p>
-  Development of web applications, systems for hardware with limited resources, and event-driven applications.
+  Development of web applications, <br>
+  systems for hardware with limited resources, <br> 
+  and event-driven applications.
 </p>
 <!-- Social badges -->
 <p align="left">
