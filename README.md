@@ -2,8 +2,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=25&duration=3000&pause=100&multiline=true&width=650&height=80&lines=Hi,+I'm+Ricardo!;A+technology+enthusiast+passionate+about+learning" alt="Typing SVG" /> <a href="https://github.com/FelipeRicardo5">
 <div> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="logo-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="logo-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="logo-dark.png">
   <img alt="Logo" src="logo-light.png">
 </picture>
    <p>
