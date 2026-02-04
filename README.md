@@ -1,19 +1,19 @@
 <!-- Header -->
-<p align="left">
+<!-- <p align="left">
   <img
     src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
     width="68"
     alt="Wave"
   />
-</p>
+</p> -->
 
 <!-- Typing title -->
-<p align="left">
+<!-- <p align="left">
   <img
     src="https://readme-typing-svg.demolab.com?font=Montserrat&size=25&duration=3000&pause=100&multiline=true&width=650&height=80&lines=Hi,+I'm+Ricardo!;A+technology+enthusiast+passionate+about+learning"
     alt="Typing SVG"
   />
-</p>
+</p> -->
 
 <!-- Profile block: logo + role -->
 <table>
